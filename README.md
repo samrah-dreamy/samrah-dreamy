@@ -99,3 +99,12 @@ Not everything valuable ships as code.
 ## 🧩 How I Think
 
 ✨ *Always learning. Always improving.* ✨
+
+---
+
+## 📬 Let’s Connect
+
+* 💼 **LinkedIn:**
+  [https://www.linkedin.com/in/samin-shahbazi-8a0562228/](https://www.linkedin.com/in/samin-shahbazi-8a0562228/)
+
+If you’re into backend, AI, or building things that actually scale — we’ll vibe 🤝
