@@ -49,35 +49,6 @@ I care about clean architecture, understanding things deeply.
 
 ---
 
-## 🚀 Projects
-
-### 🌱 Smart Greenhouse Backend
-
-A real-world IoT backend system:
-
-* Sensors and the design of the Small Green House is availible, it doesn't use a fake data
-* Sensor data ingestion
-* Real-time communication
-* RESTful APIs for monitoring & control
-* NodeMCU + MQTT
-
-Built with reliability and scalability in mind.
-(This was a Final Project for B.Sc. University)
-
----
-
-### 👑 Quiz of King
-
-A quiz-based backend project focused on:
-
-* clean logic
-* structured APIs
-* maintainable design
-
-(This was my first project and get accepted at work as junior developer)
-
----
-
 ## 📚 Current Focus
 
 * Advancing in **Artificial Intelligence** (academic + will practical)
