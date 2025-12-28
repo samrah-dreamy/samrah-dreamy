@@ -16,25 +16,17 @@ currently deep into AI
 I care about clean architecture, understanding things deeply.
 
 ---
-
 ## 🛠️ Tech Stack
+   
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+   
+   **Backend:** Python (Flask, Celery) • Go (Gin) • PostgREST  
+   **Data:** PostgreSQL • NumPy • Pandas  
+   **Messaging:** RabbitMQ • Socket.IO • MQTT
 
-**Backend**
-
-* Python (Flask, Celery)
-* Go (gin)
-* PostgREST
-* REST APIs, JWT, async processing (async task queues)
-
-**Databases**
-
-* PostgreSQL
-
-**Messaging & Real-Time**
-
-* RabbitMQ
-* Socket.IO
-* MQTT
+--
 
 **AI / Data & ML**
 
