@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I’m Samrah
 
 Backend developer by day, artist by night.
@@ -104,5 +102,3 @@ Not everything valuable ships as code.
 ## 🧩 How I Think
 
 ✨ *Always learning. Always improving.* ✨
-
----
