@@ -87,10 +87,7 @@ A quiz-based backend project focused on:
 
 ## 🎨 Art & Design Side Quest
 
-* Studying painting seriously
-
 * Interested in industrial design, AR, and human-centered computing
-
 * Obsessed with the intersection of:
 
   > tech × perception × aesthetics
