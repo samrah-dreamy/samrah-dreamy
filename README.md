@@ -63,8 +63,6 @@ I care about clean architecture, understanding things deeply.
 
   > tech × perception × aesthetics
 
-Not everything valuable ships as code.
-
 ---
 
 ## 🧩 How I Think
