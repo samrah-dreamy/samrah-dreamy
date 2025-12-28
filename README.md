@@ -1,7 +1,3 @@
-gotchu 👍 here’s a **clean, corrected version** of your README with your **real academic status** fixed and sounding legit (not awkward, not overhyped).
-
-You can replace your README with this 👇
-
 ---
 
 # 👋 Hi, I’m Samrah
