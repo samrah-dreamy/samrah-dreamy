@@ -26,8 +26,6 @@ I care about clean architecture, understanding things deeply.
    **Data:** PostgreSQL • NumPy • Pandas  
    **Messaging:** RabbitMQ • Socket.IO • MQTT
 
---
-
 **AI / Data & ML**
 
 * NumPy, Pandas
